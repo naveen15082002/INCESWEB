@@ -1,0 +1,15 @@
+div.oranges,div.apples,div.strawberry,div.grapes,div.cotton_shirt,div.cotton_pant,div.jeans_pant
+{
+	background-color: powderblue;
+	border-style: solid;
+	width: 150px;
+	height: 250px;
+	margin-left: 495px;
+}
+.kanna
+{
+	font-size: 50px;
+	padding-left: 3px;
+	background-color: blue;
+	text-align:center;
+}
